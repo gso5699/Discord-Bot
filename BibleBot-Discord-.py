@@ -2,10 +2,10 @@ import discord
 import sys
 import requests
 
-API_KEY = '149e444b12e4ebf2798a60be88c47c6ce31cc687'
+API_KEY = '___'
 API_URL = 'https://api.esv.org/v3/passage/text/'
 
-TOKEN = 'ODUwMDE0ODg0Mjc5MDkxMjQx.YLjkDA.mRQiEG_PMdYeUUhXV9zaH8Gkuzo'
+TOKEN = '___'
 
 client = discord.Client()
 
